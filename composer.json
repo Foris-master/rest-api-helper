@@ -8,6 +8,15 @@
       "name": "foris",
       "email": "evarisfomekong@gmail.com"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Foris\\RestApiHelper\\": "src/"
+    }
+  },
+  "require": {
+    "illuminate/support": "~5",
+    "nesbot/carbon": "~1.20"
+  }
 
 }
