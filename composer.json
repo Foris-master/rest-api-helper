@@ -1,5 +1,5 @@
 {
-  "name": "foris/rest-api-helper",
+  "name": "foris-master/rest-api-helper",
   "description": "Laravel package for rapidly setup a full rest api",
   "keywords": ["laravel", "rest","api"],
   "license": "MIT",
