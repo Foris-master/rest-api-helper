@@ -1,0 +1,13 @@
+{
+  "name": "foris/rest-api-helper",
+  "description": "Laravel package for rapidly setup a full rest api",
+  "keywords": ["laravel", "rest","api"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "foris",
+      "email": "evarisfomekong@gmail.com"
+    }
+  ]
+
+}
